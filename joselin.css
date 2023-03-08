@@ -1,1 +1,18 @@
-
+            body{
+            background-color:rgb(214, 255, 245);    
+            }
+            h1{
+            color:rgb(255, 187, 97);    
+            }
+            h2{
+            color:rgb(199, 195, 77);
+            }
+            h3{
+            color:rgb(117, 48, 117);    
+            }
+            #CosasNZ{
+                background-color:rgb(199, 162, 199);
+            }
+            .primeraopcion{
+                background-color:rgb(255, 0, 0);
+            }
